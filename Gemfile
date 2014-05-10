@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+# Fill in the ??? with your pig_latin's github repository https url
+gem 'pig_latin', :git => 'https://github.com/caresa/pig_latin'
+gem 'pry-debugger'
